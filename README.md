@@ -33,3 +33,11 @@ refactor: improve error messages for failed transactions
 feat: implement timelock for administrative changes
 
 feat: add support for ERC721A for gas-efficient minting
+fix: resolve integer overflow risks
+
+feat: add royalty support via EIP-2981
+
+refactor: split large contracts into smaller modules
+
+feat: implement upgradeable contract pattern (UUPS)
+
