@@ -60,3 +60,4 @@ feat: add soulbound token (SBT) implementation
 chore: deploy Quest contract to Base Sepolia
 
 feat: verify contract on BaseScan
+feat: integrate Wagmi hooks for wallet connection
