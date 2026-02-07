@@ -23,3 +23,13 @@ feat: add event emitters for key contract actions
 refactor: use OpenZeppelin standards for security
 
 feat: implement whitelist functionality for early access
+feat: add batch minting capabilities
+
+fix: update modifier logic for restricted functions
+
+feat: add burn mechanism for token deflation
+refactor: improve error messages for failed transactions
+
+feat: implement timelock for administrative changes
+
+feat: add support for ERC721A for gas-efficient minting
