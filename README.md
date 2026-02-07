@@ -40,4 +40,19 @@ feat: add royalty support via EIP-2981
 refactor: split large contracts into smaller modules
 
 feat: implement upgradeable contract pattern (UUPS)
+fix: fix incorrect balance checks in transfer logic
 
+feat: add fallback and receive functions
+
+feat: implement permit functionality for gasless approvals
+refactor: minimize storage slots to save gas
+
+feat: add merkle tree verification for airdrops
+
+fix: validate address zero in constructor
+
+feat: implement non-custodial staking mechanism
+
+refactor: consolidate internal helper functions
+
+feat: add soulbound token (SBT) implementation
