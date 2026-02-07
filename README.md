@@ -56,3 +56,6 @@ feat: implement non-custodial staking mechanism
 refactor: consolidate internal helper functions
 
 feat: add soulbound token (SBT) implementation
+
+chore: deploy Quest contract to Base Sepolia
+
