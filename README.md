@@ -20,3 +20,6 @@ feat: implement metadata URI management for NFTs
 fix: correct decimal handling in token transfers
 
 feat: add event emitters for key contract actions
+refactor: use OpenZeppelin standards for security
+
+feat: implement whitelist functionality for early access
